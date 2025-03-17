@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-This project Flutter Animations
+Flutter Animations Demo
